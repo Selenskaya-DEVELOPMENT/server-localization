@@ -985,7 +985,7 @@ SKYBLOCK_SHOP_LOOT: Магазин различных предметов
 SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
-SURVIVAL_BOARD_NAME: ' §6§lSelenskaya §8» §e§lГриф '
+SURVIVAL_BOARD_NAME: ' §6§lSelenskaya '
 SURVIVAL_BOARD_DATE_LINE: '    §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
 SURVIVAL_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
