@@ -996,7 +996,7 @@ SURVIVAL_BOARD_MONEY_LINE: '   Монеты: §e'
 SURVIVAL_BOARD_STATS_LINE: '   У/С: §a'
 SURVIVAL_BOARD_BOOSTER_LINE: '   Бустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a'
-SURVIVAL_BOARD_SITE_LINE: '     §ewww.Selenskaya.ru'
+SURVIVAL_BOARD_SITE_LINE: '     §ewww.ru'
 
 SURVIVAL_MENU_ITEM_NAME: '§6§lГлавное меню §7(ПКМ)'
 SURVIVAL_MENU_ITEM_LORE:
