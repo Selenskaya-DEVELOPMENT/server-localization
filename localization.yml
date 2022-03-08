@@ -233,6 +233,7 @@ VK_ACCOUNT_UNREGISTER: 'Вы успешно сняли регистрацию с
 VK_CHANGEPASSWORD_COMMAND_HELP: 'Использование: /auth cp [ник] [новый_пароль]'
 VK_ACCOUNT_CHANGEPASSWORD: 'Вы успешно сменили пароль на аккаунте %s на %s'
 #END_AUTH
+#SERVER/PROFILE
 PROFILE_MAIN_GUI_NAME: '§8Профиль (%s)'
 SETTINGS_GUI_NAME: '§8Профиль ▸ Настройки'
 REWARD_GUI_NAME: '§8Профиль ▸ Награды'
@@ -261,7 +262,6 @@ PROFILE_GUI_ITEM_LORE:
 - ''
 - ' §8▪ §fУровень: §b%s'
 - ' §8▪ §fДрузей: §e%s§8/§a%s'
-- ' §8▪ §fСкин: §b%s'
 - ' §8▪ §fТитул: §c%s'
 - ''
 - ' §8▪ §fНаиграно времени: §a%s'
