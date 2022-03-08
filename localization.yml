@@ -849,7 +849,7 @@ SOUL_IS_BUYED_LORE:
 - '§a▸ §a§lНажмите§7, чтобы установить'
 SOUL_IS_SELECTED: '§6§lДухи §8| §fУ вас уже §aустановлен §fданный дух'
 SOUL_RIGHT_NO_PERMISSIONS: '§6§lДухи §8| §fУстановка двух духов одновременно §cдоступна §fот привилегии %s'
-NO_PERMISSIONS: '§6§lSelenskaya §8| §fДанная возможность §cдоступна §fот привилегии %s'
+NO_PERMISSIONS: '§6§lСервер §8| §fДанная возможность §cдоступна §fот привилегии %s'
 SOUL_SELECT: '§6§lДухи §8| §fВы §aустановили §fдуха %s §fкак §e%s'
 BUY_SOUL: '§6§lДухи §8| §fВы §aкупили §fдуха %s'
 SOUL_LEVEL_1_NAME: '§cБронзовый'
@@ -893,7 +893,7 @@ ONEBLOCK_BOARD_ACHIEVEMENTS_LINE: '   Достижения: '
 SHOP_SELL_NO_ITEMS: §6§lМагазин §8| §fУ вас §cнет §fнеобходимых предметов
 SHOP_HOVER_TEST: §fНажмите сюда, §fчтобы открыть этот магазин
 SHOP_FORMAT_NO_ARGS: /shop <название магазина>
-NO_PERMS_GROUP: §6§lSelenskaya §8| §fДанная возможность доступна от привилегии %s
+NO_PERMS_GROUP: §6§lСервер §8| §fДанная возможность доступна от привилегии %s
 PROFILE_BACK_ITEM_NAME: §cВернуться назад
 PROFILE_BACK_ITEM_LORE2:
 - ''
@@ -1002,7 +1002,7 @@ SURVIVAL_MENU_ITEM_LORE:
 - ' §7Данное меню поможет вам'
 - ' §7ознакомиться с режимом'
 
-SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lSelenskaya §6§l▶'
+SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lSELENSKAYA §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lгриф'
 
 HOLOGRAM_KILLS_TOP_LINES:
@@ -1055,7 +1055,7 @@ LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
 LOBBY_BOARD_SITE_LINE: '     §ewww.Selenskaya.ru'
 
-LOBBY_JOIN_TITLE: '§6§l◀ §6§lSelenskaya §6§l▶'
+LOBBY_JOIN_TITLE: '§6§l◀ §6§lSELENSKAYA §6§l▶'
 LOBBY_JOIN_SUBTITLE: '§fВесеннее обновление!'
 
 PROFILE_ITEM_NAME: '§6§lПрофиль %s §7(ПКМ)'
