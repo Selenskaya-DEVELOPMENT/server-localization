@@ -990,7 +990,7 @@ SURVIVAL_BOARD_DATE_LINE: '    §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
 SURVIVAL_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
 SURVIVAL_BOARD_LEVEL_LINE: '   Уровень: §d'
-SURVIVAL_BOARD_COINS_LINE: '   Крышки: §b'
+SURVIVAL_BOARD_COINS_LINE: '   Рубли: §b'
 SURVIVAL_BOARD_GOLD_LINE: '   Золото: §6'
 SURVIVAL_BOARD_MONEY_LINE: '   Монеты: §e'
 SURVIVAL_BOARD_STATS_LINE: '   У/С: §a'
@@ -2139,18 +2139,6 @@ PLAYER_AFK: '§6§lСервер §8| §fИгрок §c%s §fотошел и мо
 PLAYER_CANCEL_AFK: '§6§lСервер §8| §fИгрок §a%s §fвернулся'
 
 #ОДИН БЛОК
-TELEPORT_NOT_ON_GROUND: §6§lOneBlock §8| §fДля телепортации на спавн вы должны находиться
-  на земле
-END_WORLD_START_RECREATE: §6§lOneBlock §8| §fНачалось восстановление §dэндер-мира
-END_WORLD_CANCEL_RECREATE: §6§lOneBlock §8| §fВосстановление §dэндер-мира закончено
-DRAGON_WORLD_REGEN_STARTED: §6§lСервер §8| §fНачалось восстановление §dКрая
-DRAGON_WORLD_REGEN_COMPLETE: §6§lСервер §8| §fВосстановление §dКрая §fзавершено
-WORLD_IS_LOADING: §6§lСервер §8| §fМир загружен не до конца, пожалуйста, подождите
-DRAGON_IS_KILLED: §6§lСервер §8| §fВаш остров уже убивал эндер-дракона
-USING_ANOTHER_PORTAL: §6§lСервер §8| §fВы не можете использовать чужие порталы
-WORLD_NOT_LOADED: §6§lСервер §8| §fЭндер-мир не загружен, сообщите администратору
-DRAGON_KILL: §6§lСервер §8| §6§lПоздравляем§f! §fВы убили дракона эндер-края и получили
-  §e%s §fмонет
 CANCEL_NAME: §cОтменить
 CONFIRMED_NAME: Подтвердить
 ANSWER_YES: Да
@@ -2197,7 +2185,7 @@ TIME_MONEY_TITLE: '§6§lДонатерская зарплата'
 TIME_MONEY_SUBTITLE: '§fВы заработали §e%s§6⛂ §fза §aчас §fигры'
 LOBBY_JOIN_MESSAGE:
 - '§8§m -------------------------------------------'
-- '      §fДобро пожаловать на §6§lＦｉｘ§e§lＭｉｎｅ'
+- '      §fДобро пожаловать на §6§lＳＥＬＥＮＳＫＡＹＡ'
 - ''
 - '§a❃ §fБеги вперед и выбирай режим для игры'
 - '§d❃ §fКликни по компасу, чтобы узнать больше'
