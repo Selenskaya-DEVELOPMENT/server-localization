@@ -994,7 +994,7 @@ SURVIVAL_BOARD_MONEY_LINE: '   Монеты: §e'
 SURVIVAL_BOARD_STATS_LINE: '   У/С: §a'
 SURVIVAL_BOARD_BOOSTER_LINE: '   Бустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a'
-SURVIVAL_BOARD_SITE_LINE: '  §ewww.Selenskaya.ru'
+SURVIVAL_BOARD_SITE_LINE: '  §ewww.selenskaya.ru'
 
 SURVIVAL_MENU_ITEM_NAME: '§6§lГлавное меню §7(ПКМ)'
 SURVIVAL_MENU_ITEM_LORE:
@@ -1053,7 +1053,7 @@ LOBBY_BOARD_GOLD_LINE: '   Золото: §6'
 LOBBY_BOARD_PRESENTS_LINE: '   Подарки: '
 LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
-LOBBY_BOARD_SITE_LINE: '     §ewww.Selenskaya.ru'
+LOBBY_BOARD_SITE_LINE: '     §ewww.selenskaya.ru'
 
 LOBBY_JOIN_TITLE: '§6§l◀ §6§lSELENSKAYA §6§l▶'
 LOBBY_JOIN_SUBTITLE: '§fВесеннее обновление!'
