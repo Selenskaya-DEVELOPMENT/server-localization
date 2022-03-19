@@ -1006,6 +1006,29 @@ SURVIVAL_MENU_ITEM_LORE:
 SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lSELENSKAYA §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lгриф'
 
+#ANARCHY
+ANARCHY_BOARD_NAME: '  §6§lSELENSKAYA §8» §e§lГРИФ'
+ANARCHY_BOARD_DATE_LINE: '    §7'
+ANARCHY_BOARD_GROUP_LINE: ' Группа: '
+ANARCHY_BOARD_PROFILE_LINE: ' §e§lПрофиль:'
+ANARCHY_BOARD_LEVEL_LINE: '   Уровень: §d'
+ANARCHY_BOARD_COINS_LINE: '   Рубли: §b'
+ANARCHY_BOARD_GOLD_LINE: '   Золото: §6'
+ANARCHY_BOARD_MONEY_LINE: '   Монеты: §e'
+ANARCHY_BOARD_STATS_LINE: '   У/С: §a'
+ANARCHY_BOARD_BOOSTER_LINE: '   Бустер: §c'
+ANARCHY_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a'
+ANARCHY_BOARD_SITE_LINE: '  §ewww.selenskaya.ru'
+
+ANARCHY_MENU_ITEM_NAME: '§6§lГлавное меню §7(ПКМ)'
+ANARCHY_MENU_ITEM_LORE:
+- ''
+- ' §7Данное меню поможет вам'
+- ' §7ознакомиться с режимом'
+
+ANARCHY_JOIN_TITLE: '§6§l◀ §6§lSELENSKAYA §6§l▶'
+ANARCHY_JOIN_SUBTITLE: '§fДобро пожаловать на §c§lанархию'
+
 HOLOGRAM_KILLS_TOP_LINES:
 - '§8§l« §a§lТоп по убийствам §8§l»'
 - '§fСамые сильные игроки'
